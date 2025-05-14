@@ -1,0 +1,1 @@
+If you previously downloaded our checkpoint, please move the checkpoint and config file to the ./exp/pvg_example/005 directory. 
